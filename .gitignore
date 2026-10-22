@@ -1,0 +1,15 @@
+artifacts/
+logs/
+*.o
+*.a
+*.dylib
+*.so
+*.env
+.DS_Store
+
+# Shared-guide symlinks (content lives in allOdin-Guides)
+ODIN_START.md
+ODIN_PRINCIPLES.md
+ODIN_STYLE.md
+ODIN_MEMORY.md
+ODIN_PROJECT_RAILS.md
