@@ -44,3 +44,8 @@ Runs the test suite under the Odin tracking allocator to guarantee zero leaks.
 ```sh
 XMPP_JID="user@example.com" XMPP_PASS="secret" ./artifacts/xmpp_echo
 ```
+
+## License
+
+This project is licensed under the zlib/libpng license. See the [LICENSE](LICENSE) file for details.
+
