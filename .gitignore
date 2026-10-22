@@ -7,6 +7,8 @@ logs/
 *.env
 .DS_Store
 
+.forgejo/workflows/
+
 # Shared-guide symlinks (content lives in allOdin-Guides)
 ODIN_START.md
 ODIN_PRINCIPLES.md
